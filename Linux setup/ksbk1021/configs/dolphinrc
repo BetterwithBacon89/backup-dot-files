@@ -1,0 +1,28 @@
+[DetailsMode]
+ExpandableFolders=false
+HighlightEntireRow=false
+PreviewSize=32
+SidePadding=0
+
+[General]
+EditableUrl=true
+GlobalViewProps=false
+RememberOpenedTabs=false
+ShowFullPath=true
+ShowFullPathInTitlebar=true
+Version=202
+ViewPropsTimestamp=2024,9,27,11,44,48.691
+
+[InformationPanel]
+previewsAutoPlay=true
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+
+[PreviewSettings]
+Plugins=ffmpegthumbnailer,appimagethumbnail,audiothumbnail,avif,blenderthumbnail,comicbookthumbnail,cursorthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,directorythumbnail,fontthumbnail,imagethumbnail,jpegthumbnail,jxl,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,gsf-office,mobithumbnail,opendocumentthumbnail,gdk-pixbuf-thumbnailer,gsthumbnail,rawthumbnail,svgthumbnail,ffmpegthumbs

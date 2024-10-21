@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>NewsFlash OPML export</title>
+  </head>
+  <body>
+    <outline text="Tech" title="Tech">
+      <outline text="Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics" htmlUrl="https://www.engadget.com/" xmlUrl="https://www.engadget.com/rss.xml" type="rss" title="Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics" />
+      <outline htmlUrl="https://arstechnica.com/" title="Ars Technica - All content" xmlUrl="http://feeds.arstechnica.com/arstechnica/index" type="rss" text="Ars Technica - All content" />
+      <outline xmlUrl="https://beta.digitalblasphemy.com/feed/" title="Digital Blasphemy" type="rss" htmlUrl="https://beta.digitalblasphemy.com/" text="Digital Blasphemy" />
+      <outline htmlUrl="https://9to5google.com/" title="9to5Google" text="9to5Google" type="rss" xmlUrl="https://9to5google.com/feed/" />
+      <outline type="rss" text="TechCrunch" htmlUrl="https://techcrunch.com/" title="TechCrunch" xmlUrl="https://techcrunch.com/feed/" />
+      <outline type="rss" title="BetaNews" text="BetaNews" xmlUrl="https://betanews.com/feed/" htmlUrl="https://betanews.com/" />
+      <outline htmlUrl="https://www.androidpolice.com/" xmlUrl="https://www.androidpolice.com/feed/" type="rss" text="Android Police" title="Android Police" />
+      <outline htmlUrl="https://www.tomshardware.com/" xmlUrl="https://www.tomshardware.com/feeds.xml" title="Tomshardware RSS Feed" text="Tomshardware RSS Feed" type="rss" />
+      <outline title="Latest news" xmlUrl="https://www.zdnet.com/news/rss.xml" type="rss" text="Latest news" htmlUrl="https://www.zdnet.com/" />
+      <outline xmlUrl="https://www.techspot.com/backend.xml" text="TechSpot" htmlUrl="https://www.techspot.com/" type="rss" title="TechSpot" />
+    </outline>
+    <outline title="Linux" text="Linux">
+      <outline title="9to5Linux" xmlUrl="https://9to5linux.com/feed" text="9to5Linux" type="rss" htmlUrl="https://9to5linux.com/" />
+      <outline htmlUrl="https://news.itsfoss.com/" text="It&apos;s FOSS News" type="rss" xmlUrl="https://news.itsfoss.com/latest/rss/" title="It&apos;s FOSS News" />
+      <outline title="Phoronix" text="Phoronix" type="rss" xmlUrl="https://www.phoronix.com/rss.php" htmlUrl="https://www.phoronix.com/" />
+      <outline type="rss" htmlUrl="https://www.linuxtoday.com/" title="Linux Today" xmlUrl="https://www.linuxtoday.com/feed/" text="Linux Today" />
+      <outline type="rss" text="Linuxiac" htmlUrl="https://linuxiac.com/" xmlUrl="https://linuxiac.com/feed/" title="Linuxiac" />
+    </outline>
+    <outline title="Games" text="Games">
+      <outline xmlUrl="https://www.ign.com/rss/v2/articles/feed?channel=pc" type="rss" htmlUrl="https://www.ign.com/articles" title="The Latest in PC Gaming From IGN" text="The Latest in PC Gaming From IGN" />
+      <outline htmlUrl="https://www.polygon.com/" title="Polygon" xmlUrl="https://www.polygon.com/rss/index.xml" text="Polygon" type="rss" />
+      <outline title="Gamesradar+ RSS Feed" htmlUrl="https://www.gamesradar.com/" type="rss" xmlUrl="https://www.gamesradar.com/feeds.xml" text="Gamesradar+ RSS Feed" />
+      <outline type="rss" title="Video Game News, Reviews, Walkthroughs And Guides | GamingBolt" xmlUrl="https://gamingbolt.com/feed" text="Video Game News, Reviews, Walkthroughs And Guides | GamingBolt" htmlUrl="https://gamingbolt.com/" />
+      <outline xmlUrl="https://www.gamingonlinux.com/article_rss.php" text="GamingOnLinux Latest Articles" type="rss" htmlUrl="https://www.gamingonlinux.com/" title="GamingOnLinux Latest Articles" />
+      <outline type="rss" title="PCGamer RSS Feed" text="PCGamer RSS Feed" htmlUrl="https://www.pcgamer.com/" xmlUrl="https://www.pcgamer.com/feeds.xml" />
+      <outline xmlUrl="https://gamerant.com/feed/" htmlUrl="https://gamerant.com/" text="Game Rant" type="rss" title="Game Rant" />
+    </outline>
+  </body>
+</opml>

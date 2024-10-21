@@ -1,0 +1,15 @@
+{
+  "etags": {
+    "https://www.linuxtoday.com/feed/": "\"d16df6cd94af45cb1f54941f6faea3d5\"",
+    "https://linuxiac.com/feed/": "W/\"777f90ef73fea224c4d4c60cf09f4be8\"",
+    "https://beta.digitalblasphemy.com/feed/": "\"27ba457d1b0c820e46edcf194baf8c42-gzip\"",
+    "https://betanews.com/feed/": "\"a8b2376edb5ba6c8d03fcdbcddaaa5eb-gzip\"",
+    "https://9to5linux.com/feed": "\"4ebf0b29a0c34ea6e665e44dce21f41f-gzip\"",
+    "https://distrowatch.com//news/dwd.xml": "\"11e3-623f693476dfa\"",
+    "https://9to5google.com/feed/": "W/\"6bb7f61cdf3a3f3adf819fe49023575e\"",
+    "https://www.ign.com/rss/v2/articles/feed?channel=pc": "W/\"22989-pheK9c+jVl1TesAEjraz+2zqwmQ\"",
+    "https://news.itsfoss.com/latest/rss/": "W/\"279b1-Nyyk3R7t/E4f1YhAnWw6JtebGt8\"",
+    "https://www.polygon.com/rss/index.xml": "W/\"888575ba17b5f3e699d777e6ab8a5733\"",
+    "https://techcrunch.com/feed/": "W/\"cd26049d0a2eb4cb400ececab795fe41\""
+  }
+}

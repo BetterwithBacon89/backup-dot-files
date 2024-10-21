@@ -1,0 +1,8 @@
+[Keyboard]
+NumLock=0
+
+[Libinput][6940][2626][Corsair CORSAIR Slipstream Multi-Device Receiver Keyboard]
+Enabled=true
+
+[Mouse]
+cursorTheme=capitaine-cursors

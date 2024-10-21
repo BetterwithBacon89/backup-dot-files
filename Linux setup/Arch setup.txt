@@ -1,0 +1,13 @@
+#Game Performance Mode
+game-performance %command%
+__GL_SHADER_DISK_CACHE_SKIP_CLEANUP=1 game-performance %command%
+
+#Change Shell
+chsh -s /usr/bin/zsh
+chsh -s /usr/bin/fish
+chsh -s /usr/bin/bash
+
+fastfetch --logo-padding-left 6 --logo-padding-top 2
+
+#Automount Backup drive
+UUID=3674-1437                            /backup        vfat    defaults 0 0
